@@ -79,7 +79,7 @@ The important quesiton to answer: Based on our problem and data, what model shou
 - Generalization
     The ability for a machine learning model to perform well on data it hasn't seen before
 
-1. Choosing and training a model (Training)
+### Choosing and training a model (Training)
     Structured - CatBoost, XGBoost, Random Forest
     Unstructured - Deep learning, Transfer learning
 
@@ -91,14 +91,14 @@ Summary Points
 - Some models work better than others on different problems
 - Add complexity (as needed)
 
-2. Tuning a model (Validation)
+### Tuning a model (Validation)
 
 Summary Points
 - Machine learning models have hyperparameters you can adjust
 - A models first results aren't its last
 - Tuning can take place on training or validation data sets
 
-3. Model comparison (Test)
+### Model comparison (Test)
 
 All experiments should be conducted on different portions of your data.
 
