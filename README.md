@@ -1,6 +1,9 @@
 # Machine_Learning
 A comprehensive list of Machine Learning projects
 
+- Heart-Disease (Classification)
+- Bluebook Bulldozer Prediction Price (Regression)
+
 # 6 Step Machine Learning Framework
 All the steps below are represented as an iterative process.
 
