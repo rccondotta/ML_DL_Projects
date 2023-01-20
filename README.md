@@ -1,4 +1,4 @@
-# This is a repository for different project walkthroughs
+# This is a repository for TensorFlow project walkthroughs
 
 # Projects
 All directories are named after the dataset or the projects name.
